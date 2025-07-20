@@ -6,7 +6,7 @@ This project is a **React Code Challenge**
 
 ### Problem 1: Three ways to sum to n
 
-[Jump to Problem 2](./problem1)
+[Jump to Problem 1](./problem1)
 
 ### Problem 2: Fancy Form
 
